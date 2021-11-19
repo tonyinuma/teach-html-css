@@ -1,0 +1,49 @@
+body {
+    background-color: orange;
+}
+
+button {
+    background-color: #e2610a;
+    color: papayawhip;
+    border-radius: 10px;
+    border-color: white;
+}
+
+#input_cm {
+    background-color: royalblue;
+}
+
+#input_grosor {
+    background-color: skyblue;
+}
+
+#titulo {
+    font-size: 36px;
+    font-weight: bold;
+    text-shadow: 10px 25px #e2610a;
+    font-family: cursive;
+    cursor: pointer;
+    bottom: 50px;
+}
+
+#titulo:hover {
+    font-size: 40px;
+    text-shadow: 10px 25px yellow;
+}
+
+span {
+    font-size: 20px;
+}
+
+.aplicar-negrita {
+    font-weight: bold;
+}
+
+.imagen {
+    width: 600px;
+    height: 300px;
+}
+
+.color-rojito {
+    background-color: red;
+}
